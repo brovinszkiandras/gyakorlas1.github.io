@@ -1,0 +1,15 @@
+.pwd{
+    position: relative;
+}
+.passwordIconHolder{
+z-index: 9999;
+position: absolute;
+top: 20%;
+right: 10px;
+}
+.passwordIcon{
+    color: black;
+}
+.passwordIcon:hover{
+    cursor: pointer;
+}
